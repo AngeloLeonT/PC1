@@ -1,8 +1,8 @@
 # Establecer los números
 # Establecer las opciones que se elegirán
 
-num1 = int(input("Ingrese el primer número: "))
-num2 = int(input("Ingrese el segundo número: "))
+num1 = float(input("Ingrese el primer número: "))
+num2 = float(input("Ingrese el segundo número: "))
 
 while(True):
     print("""¿Qué quieres hacer? Escribe una opción
